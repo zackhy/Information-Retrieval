@@ -1,3 +1,8 @@
+"""
+This program creates the review database that stores all the reviews and user information
+Author: Haoyou Liu
+"""
+
 import sqlite3
 import json
 

@@ -1,3 +1,8 @@
+"""
+This program collects test data and stores them in database
+Author: Haoyou Liu
+"""
+
 import sqlite3
 import os
 

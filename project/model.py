@@ -1,3 +1,8 @@
+"""
+This program build the text classifier for detecting the fake reviews
+Author: Haoyou Liu
+"""
+
 import csv
 import numpy as np
 from sklearn.svm import LinearSVC
